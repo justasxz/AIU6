@@ -1,0 +1,6 @@
+print("Mano darbas, kuri sunkiai dirbu")
+print("Mano darbas, kuri sunkiai dirbu")
+print("Mano darbas, kuri sunkiai dirbu")
+print("Mano darbas, kuri sunkiai dirbu")
+print("Mano darbas, kuri sunkiai dirbu")
+print("Mano darbas, kuri sunkiai dirbu")

@@ -1,0 +1,1 @@
+print("Kitokie pakeitimai")

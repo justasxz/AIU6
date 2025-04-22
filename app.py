@@ -11,3 +11,7 @@ print("Kazkieno kito pakeitimai")
 print("Pakeiciau dar kazka")
 
 print("Pakeitimas dev sakoje")
+
+print("Vardas")
+print("Slaptazodis")
+print("Prisiregistravote...")

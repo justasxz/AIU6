@@ -13,3 +13,10 @@ print("Pakeiciau dar kazka")
 print("Main pakeitimai") 
 print("Keičiu")
 print("Dar daugiau pakeitimų")
+
+
+print("Pakeitimas dev sakoje")
+
+print("Vardas")
+print("Slaptazodis")
+print("Prisiregistravote...")
